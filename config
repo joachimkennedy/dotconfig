@@ -1,0 +1,42 @@
+# newsboat config
+# auto-reload yes
+refresh-on-startup yes
+reload-threads 3
+max-items 100
+confirm-mark-all-feeds-read no
+confirm-mark-feed-read no
+
+browser "~/bin/newsboat-firefox.sh"
+
+# LIST FORMATS
+feedlist-format "%?l? %10u %t & %t ?"
+articlelist-format "%4f %D %6L %?T?|%-17T| ?%t"
+
+# COLORS
+highlight feedlist "---.*---" cyan default bold
+
+# UNBIND KEYS
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+unbind-key O
+unbind-key g
+unbind-key G
+
+# BIND KEYS
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+bind-key J next-feed
+bind-key K prev-feed
+bind-key g home
+bind-key G end
+bind-key b open-in-browser-and-mark-read
+
+# MACROS
+macro y set browser "~/bin/newsboat-mpv.sh" ; open-in-browser-noninteractively ; set browser "~/bin/newsboat-firefox.sh"
+
+# IGNORE ARTICLES
+
