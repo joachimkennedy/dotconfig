@@ -1,41 +1,50 @@
 "---TRYING OUT---"
-https://tbenthompson.com/post/index.xml
-https://maxlangenkamp.substack.com/feed blog
-https://escapingflatland.substack.com/feed blog
-https://candyforbreakfast.substack.com/feed blog
-https://www.thestranger.com/seattle/Rss.xml?collection=79433094
-https://ludic.mataroa.blog/rss/
+https://tbenthompson.com/post/index.xml "~Ben Thompson"
+https://maxlangenkamp.substack.com/feed "~Max Langenkamp"
+https://escapingflatland.substack.com/feed "~Escaping Flatland"
+https://ludic.mataroa.blog/rss/ "~Ludicity"
 " "
 "---MUSIC---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLUh4W61bt_K6tflBpjWgnXLpyuu6EbNTW
 " "
 "---BLOGS---"
-https://astralcodexten.substack.com/feed blog
-https://www.jefftk.com/news.rss blog
-https://aella.substack.com/feed blog
-https://tynan.com/feed/
-https://experimentalhistory.substack.com/feed blog
+https://astralcodexten.substack.com/feed "~Scott Alexander"
+https://www.jefftk.com/news.rss "~Jeff Kaufman"
+https://aella.substack.com/feed "~Aella"
+https://tynan.com/feed/ "~Tynan"
+https://experimentalhistory.substack.com/feed "~Adam Mastroianni"
 https://danluu.com/atom.xml blog "~Dan Luu"
-https://nabeelqu.co/rss blog
-https://freddiedeboer.substack.com/feed blog
+https://nabeelqu.co/rss "~Nabeel Qureshi"
+https://candyforbreakfast.substack.com/feed "~Candy for Breakfast"
+https://freddiedeboer.substack.com/feed "~Freddie de Boer"
 https://github.com/merlinmann/wisdom/commits/master.atom "~Merlin Mann's Wisdom Document"
-https://waitbutwhy.com/feed blog
+https://waitbutwhy.com/feed "~Wait But Why"
 " "
-"---FRIENDS---"
-https://joachimkennedy.com/index.xml blog
+"---PEOPLE I KNOW---"
+https://joachimkennedy.com/index.xml
 https://maggiemail.substack.com/feed "~Maggie"
 https://www.dominicmkennedy.com/music/rss.xml "~Dom"
-https://neotoma.site/p/index.xml "~Carl"
-https://neotoma.site/now/index.xml "~Carl Now"
+https://neotoma.site/p/index.xml "~Neotoma"
+https://neotoma.site/now/index.xml "~Neotoma Now"
 https://augustlamm.substack.com/feed "~August"
+https://closefriends.substack.com/feed "~Sophie"
 https://eql97.home.blog/feed/ "~Erica"
 https://mrepplier.com/blog?format=rss "~Matt Repplier"
 https://hypenorm.substack.com/feed
 " "
+"---NEWS---"
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml "~NYT"
+https://www.newyorker.com/feed/rss "~New Yorker"
+https://washingtonstatestandard.com/feed/ "~Washington State Standard"
+https://www.seattletimes.com/feed/ "~Seattle Times"
+https://www.thestranger.com/seattle/Rss.xml "~The Stranger"
+https://www.thestranger.com/seattle/Rss.xml?collection=79433094 "~I Saw U"
+https://www.wallyhood.org/feed/ "~Wallyhood"
+" "
 "---CARTOONS---"
-https://xkcd.com/atom.xml
-https://lianafinck.substack.com/feed
+https://xkcd.com/atom.xml "~xkcd"
+https://lianafinck.substack.com/feed "~Liana Finck"
 " "
 "---CHANNELS---"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCj1VqrHhDte54oLgPG4xpuQ yt "~Stuff Made Here"
@@ -53,16 +62,15 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UClIpxKAC9kaOgjexqrvan9g yt 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCC9MOnyhiHBINthDWJE-GDQ yt "~Seattle Archives"
 " "
 "---PODCASTS---"
-https://feeds.simplecast.com/5nKJV82u
+https://feeds.simplecast.com/5nKJV82u "~Do By Friday"
 " "
 "---DORMANT---"
-https://putanumonit.com/feed/ blog
-https://thelastpsychiatrist.com/atom.xml blog
-http://www.aaronsw.com/2002/feeds/pgessays.rss blog
-https://www.benkuhn.net/index.xml
-https://blog.ncase.me/rss
-https://zhengdongwang.com/feed.xml blog
-https://thedreammachine.substack.com/feed blog
+https://putanumonit.com/feed/ "~Put a Num on it"
+https://thelastpsychiatrist.com/atom.xml "~The Last Psychiatrist"
+http://www.aaronsw.com/2002/feeds/pgessays.rss "~Paul Graham"
+https://www.benkuhn.net/index.xml "~Ben Kuhn"
+https://blog.ncase.me/rss "~Nicky Case"
+https://zhengdongwang.com/feed.xml "~Zhengdong Wang"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3azLjQuz9s5qk76KEXaTvA yt "~suckerpinch"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A yt "~Tom Scott"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHC4G4X-OR5WkY-IquRGa3Q yt "~Tom Scott plus"
