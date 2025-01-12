@@ -2,9 +2,8 @@
 https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml "~NYT"
 https://www.newyorker.com/feed/rss "~New Yorker"
 https://www.pewresearch.org/feed/ "~Pew Research"
-FAKE LINE FOR TESTING
 https://washingtonstatestandard.com/feed/ "~Washington State Standard"
-https://www.seattletimes.com/feed/ "~Seattle Times"
+https://rss.theappuniverse.com/seattletimes.xml "~Seattle Times"
 https://www.thestranger.com/seattle/Rss.xml "~The Stranger"
 https://www.wallyhood.org/feed/ "~Wallyhood"
 " "
